@@ -34,23 +34,6 @@ This project focuses on analyzing Adidas US sales data using various tools and t
 - Minitab
 - Power BI
 
-### Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/adidas-us-sales-analysis.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd adidas-us-sales-analysis
-    ```
-
-3. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Open the Jupyter notebook to review the data cleaning and EDA processes:
