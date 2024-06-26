@@ -22,7 +22,6 @@ This project focuses on analyzing Adidas US sales data using various tools and t
    - Used Minitab to find out the most profitable retailer among all the retailers.
 5. **Data Visualization**:
    - Created interactive and insightful visualizations using Power BI to present the findings.
-   - 
 
 ## Getting Started
 
